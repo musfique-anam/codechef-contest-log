@@ -1,7 +1,7 @@
 # CodeChef Contest Log
 
 ### 🔗 My CodeChef Profile
-[Visit My CodeChef Profile](https://www.codechef.com/users/next_mount_23)
+[Visit My CodeChef Profile](https://www.codechef.com/users/musfique)
 
 This repository contains my personal archive of CodeChef contest problem-solving attempts. It includes:
 
