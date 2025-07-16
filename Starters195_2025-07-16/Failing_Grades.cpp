@@ -12,7 +12,6 @@ int main(){
             v.push_back(x);
         }
 
-
         int av=40;
         z=v[0];
 
