@@ -42,15 +42,9 @@ int main() {
             }
         }
 
-
         problem(E,less,C);
 
-
-
-
-        
-
-        
+    
     }
 
 }
